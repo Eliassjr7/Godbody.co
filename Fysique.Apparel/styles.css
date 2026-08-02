@@ -471,6 +471,7 @@
             color: white;
          }
          .Hbuttons{
+            text-align: center;
             margin-right: auto;
             margin-left: auto;
             margin-top: auto;
@@ -646,7 +647,7 @@ main{
          .women{background-image: url("Images/Cap.jpeg");}
          .accessories{background-image: url("Images/Belt.jpeg");}
          .lifting{background-image: url("Images/short\ sleeve.jpeg");}
-         .running{background-image: url("Images/Long\ Sleeve\ Compression.jpeg");}
+         .running{background-image: url("Images/oversizedeli.jpeg");}
          .swimming{background-image: url("Images/hoodies.PNG");}
          .hiit{background-image: url("Images/Sweatpants\ Navy\ Blue.jpeg");}
 
@@ -684,9 +685,17 @@ main{
     .mpic6{background-image: url(Images/Cap.jpeg);}
     .mpic7{background-image: url(Images/Belt.jpeg);}
     .mpic8{background-image: url(Images/short\ sleeve.jpeg);}
-    .mpic9{background-image: url(Images/Long\ Sleeve\ Compression.jpeg);}
+    .mpic9{background-image: url(Images/oversizedeli.jpeg);}
     .mpic10{background-image: url(Images/hoodies.PNG);}
     .mpic11{background-image: url(Images/Sweatpants\ Navy\ Blue.jpeg);}
+    .mpic12{background-image: url(Images/mpic12.PNG);}
+    .mpic13{background-image: url(Images/mpic13.PNG);}
+    .mpic14{background-image: url(Images/spring\ leggings.jpg);}
+    .mpic15{background-image: url(Images/sports\ bra.png);}
+    .mpic16{background-image: url(Images/mpic16.PNG);}
+    .mpic17{background-image: url(Images/Hoodie\ 2.png);}
+    .mpic18{background-image: url(Images/mpic18.PNG);}
+    .mpic19{background-image: url(Images/mpic19.PNG);}
 /* Text at the bottom of the page */
          
          .highlights{
@@ -704,7 +713,7 @@ main{
             font-weight: 900;
          }
          .descriptions{
-             font-size: small; 
+             font-size: medium; 
          }      
          .scriptionbackg{
             text-align: center;
@@ -841,7 +850,7 @@ main{
      .countdown-container{display: none;}
    .moblie-collection ul{display: inline-flex;
                margin: 15px;}
-     .img-descriptions, .img-link
+     .img-descriptions, .img-link,.descriptions
          { font-size: small;}
          #productslides1, #productslides2{
             overflow-x: auto;
@@ -926,6 +935,7 @@ main{
        .contents{
             margin-right: 3px;          
          } 
+      .TitlePage{padding:0 0 0 10px;}
 
    /* .user-cards{grid-template-columns: repeat(auto-fill, minmax(100px,1fr));} This changes the search bar to include more photos can also change display on the pages*/
 /* This is temporay margin to hid kit */
