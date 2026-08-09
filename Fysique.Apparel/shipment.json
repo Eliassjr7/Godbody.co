@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "One-Time-Only",
-    "url": "Images/IMG_1925.JPG",
+    "url": "Images/MenCS.JPG",
     "price": "$",
     "email": "May 15 - May 30 -- 1 of 10",
     "redirectUrl":"MenLongSleeve.html"
@@ -53,7 +53,7 @@
     "price": "$35",
     "url": "Images/men blue quarter-zip.png",
     "email": "Front Branding",
-     "redirectUrl":"WomenLongSleeve.html"
+     "redirectUrl":"MenLongSleeve.html"
   },
   {
     "id": 2,
@@ -473,27 +473,27 @@
   },
    {
     "id": 33,
-    "name": "Black Performance Shorts",
-    "url": "Images/black performance shorts.webp",
+    "name": "",
+    "url": "Images/",
     "price":"$40",
     "email": "Front Branding",
-     "redirectUrl":"MenShorts.html"
+     "redirectUrl":".html"
   },
    {
     "id": 33,
-    "name": "White Performance Shorts",
-    "url": "Images/white performance shorts.webp",
+    "name": "",
+    "url": "Images/",
     "price":"$40",
     "email": "Front Branding",
-     "redirectUrl":"MenShorts.html"
+     "redirectUrl":".html"
   },
    {
     "id": 33,
-    "name": "Blue Performance Shorts",
-    "url": "Images/blue performance shorts.webp",
+    "name": "",
+    "url": "Images/",
     "price":"$40",
     "email": "Front Branding",
-     "redirectUrl":"MenShorts.html"
+     "redirectUrl":".html"
   },
    {
     "id": 33,

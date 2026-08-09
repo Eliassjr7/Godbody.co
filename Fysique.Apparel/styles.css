@@ -372,7 +372,7 @@
 .product-cards{
       padding-left:4px;
       padding-right: 4px;
-      padding-bottom: 60px; 
+      padding-bottom: 10px; 
         display: grid;
         grid-template-columns: repeat(auto-fill, minmax(200px,1fr));
         gap: .5rem;
@@ -696,6 +696,10 @@ main{
     .mpic17{background-image: url(Images/Hoodie\ 2.png);}
     .mpic18{background-image: url(Images/mpic18.PNG);}
     .mpic19{background-image: url(Images/mpic19.PNG);}
+    .mpic20{background-image: url(Images/mpic20.jpeg);}
+    .mpic21{background-image: url(Images/mpic21.jpg);}
+    .mpic22{background-image: url(Images/mpic22.png);}
+    .mpic23{background-image: url(Images/mpic23.PNG);}
 /* Text at the bottom of the page */
          
          .highlights{
@@ -732,6 +736,35 @@ main{
          padding: 0;
          margin: 20px 0 0 20px;
        }
+       .cr{
+         display: none;
+         font-size: xx-small;
+         padding: 10px;
+       }
+       .gender{font-size: medium;
+               color: lightgrey;
+               padding: 0;
+               margin: 0;
+      }
+      /* designed for section of graphic designes */
+        .designedfor{
+            padding: 2px;
+            background-color: white;
+            display: flex; 
+            flex-wrap: wrap;
+        }
+        .designed{
+            background-color: white;
+            margin: auto;
+            width: 200px;
+        }
+        .designed img{
+            width: 200px;
+        }
+        .designed figcaption{
+            font-size:x-small;
+            margin-bottom: 20px;
+        }
        /* labels  */
          footer{
             margin-top: auto;
@@ -813,6 +846,7 @@ main{
         width: 25px;
         }
         .mobile{display: flex;}
+        .cr{display: block;}
         footer{display: none;}
         
 
