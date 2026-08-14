@@ -433,7 +433,7 @@
   },
    {
     "id": 33,
-    "name": "White Slim Fit Jacket",
+    "name": "White V Slim Fit Jacket",
     "url": "Images/white slim fit jacket.webp",
     "price":"$50",
     "email": "Front Branding",
@@ -441,7 +441,7 @@
   },
    {
     "id": 33,
-    "name": "Light Purple Slim Fit Jacket",
+    "name": "Light Purple V Slim Fit Jacket",
     "url": "Images/purple slim fit jacket.webp",
     "price":"$50",
     "email": "Front Branding",
@@ -449,7 +449,7 @@
   },
    {
     "id": 33,
-    "name": "Black Slim Fit Jacket",
+    "name": "Black V Slim Fit Jacket",
     "url": "Images/black slim fit jacket.webp",
     "price":"$50",
     "email": "Front Branding",
@@ -470,30 +470,6 @@
     "price":"$25",
     "email": "Front Branding",
      "redirectUrl":"MenShorts.html"
-  },
-   {
-    "id": 33,
-    "name": "",
-    "url": "Images/",
-    "price":"$40",
-    "email": "Front Branding",
-     "redirectUrl":".html"
-  },
-   {
-    "id": 33,
-    "name": "",
-    "url": "Images/",
-    "price":"$40",
-    "email": "Front Branding",
-     "redirectUrl":".html"
-  },
-   {
-    "id": 33,
-    "name": "",
-    "url": "Images/",
-    "price":"$40",
-    "email": "Front Branding",
-     "redirectUrl":".html"
   },
    {
     "id": 33,
@@ -545,7 +521,7 @@
   },
    {
     "id": 33,
-    "name": "Classic Light Gray Short Sleeve T-shirt",
+    "name": "Classic Light Gray Crop T-shirt",
     "url": "Images/women light gray short sleeve.webp",
     "price":"$29",
     "email": "Front Branding",
@@ -553,7 +529,7 @@
   },
    {
     "id": 33,
-    "name": "Classic Pink Short Sleeve T-shirt",
+    "name": "Classic Pink Crop T-shirt",
     "url": "Images/women pink short sleeve.webp",
     "price":"$29",
     "email": "Front Branding",
@@ -561,7 +537,7 @@
   },
    {
     "id": 33,
-    "name": "Classic Gray Short Sleeve T-shirt",
+    "name": "Classic Gray Crop T-shirt",
     "url": "Images/women gray short sleeve.webp",
     "price":"$29",
     "email": "Front Branding",
@@ -569,7 +545,7 @@
   },
    {
     "id": 33,
-    "name": "Classic Black Short Sleeve T-shirt",
+    "name": "Classic Black Crop T-shirt",
     "url": "Images/women black short sleeve.webp",
     "price":"$29",
     "email": "Front Branding",
@@ -577,7 +553,7 @@
   },
    {
     "id": 33,
-    "name": "Classic Red Short Sleeve T-shirt",
+    "name": "Classic Red Crop T-shirt",
     "url": "Images/women red short sleeve.webp",
     "price":"$29",
     "email": "Front Branding",
