@@ -557,7 +557,11 @@
             box-shadow: gray 0 0 5px; 
             height: 300px;
             width: 200px;
-         }    
+         }   
+         .productslider .brandlabel{
+            color:  gray;
+            font-size: smaller;
+         } 
 
          /* Swtich the Fcountdown back to -70 and kittext back to 0 and take off the section blanks*/
 /* Container for timer */

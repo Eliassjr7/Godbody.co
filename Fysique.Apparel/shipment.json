@@ -255,6 +255,22 @@
     "email": "Front & Rear branding",
      "redirectUrl":"WomenShorts.html"
   },
+  {
+    "id": 27,
+    "name": "Dark Gray High-Waisted Legging Shorts",
+    "url": "Images/dark gray shorts.webp",
+    "price":"$34",
+    "email": "Front & Rear branding",
+     "redirectUrl":"WomenShorts.html"
+  },
+   {
+    "id": 28,
+    "name": "Magenta Purple High-Waisted Legging Shorts",
+    "url": "Images/purple shorts.webp",
+    "price":"$34",
+    "email": "Front & Rear branding",
+     "redirectUrl":"WomenShorts.html"
+  },
    {
     "id": 26,
     "name": "Black High-Waisted Legging Shorts",
@@ -272,26 +288,10 @@
      "redirectUrl":"WomenShorts.html"
   },
    {
-    "id": 27,
-    "name": "Dark Gray High-Waisted Legging Shorts",
-    "url": "Images/dark gray shorts.webp",
-    "price":"$34",
-    "email": "Front & Rear branding",
-     "redirectUrl":"WomenShorts.html"
-  },
-   {
-    "id": 28,
-    "name": "Purple High-Waisted Legging Shorts",
-    "url": "Images/purple shorts.webp",
-    "price":"$34",
-    "email": "Front & Rear branding",
-     "redirectUrl":"WomenShorts.html"
-  },
-   {
     "id": 29,
     "name": "Gray Blue Sports Bra",
     "url": "Images/gray blue sports bra.webp",
-    "price":"$31",
+    "price":"$30",
     "email": "Front & Rear Branding",
      "redirectUrl":"WomenSportsBras.html"
   },
@@ -299,15 +299,15 @@
     "id": 30,
     "name": "Dark Gray Sports Bra",
     "url": "Images/dark gray sports bra.webp",
-    "price":"$31",
+    "price":"$30",
     "email": "Front & Rear Branding",
      "redirectUrl":"WomenSportsBras.html"
   },
      {
-    "id": 31,
-    "name": "Purple Sports Bra",
+    "id": 30,
+    "name": "Magenta Purple Sports Bra",
     "url": "Images/purple sports bra.webp",
-    "price":"$31",
+    "price":"$30",
     "email": "Front & Rear Branding",
      "redirectUrl":"WomenSportsBras.html"
   },
@@ -315,7 +315,7 @@
     "id": 32,
     "name": "Black Sports Bra",
     "url": "Images/black sports bra.webp",
-    "price":"$31",
+    "price":"$30",
     "email": "Front & Rear Branding",
      "redirectUrl":"WomenSportsBras.html"
   },
@@ -323,7 +323,7 @@
     "id": 15,
     "name": "White Sports Bra",
     "url": "Images/white sports bra.webp",
-    "price":"$31",
+    "price":"$30",
     "email": "Front & Rear Branding",
      "redirectUrl":"WomenSportsBras.html"
   },
