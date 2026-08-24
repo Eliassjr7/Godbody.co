@@ -80,6 +80,7 @@ $(function(){
     }
     setupSlider('#productslider1',12);
     setupSlider('#productslider2',12);
+    setupSlider('#productslider3',12);
 });
 
 const userCardTemplate = document.querySelector("[data-user-template]")

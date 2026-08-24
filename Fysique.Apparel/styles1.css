@@ -487,6 +487,17 @@
                color: white;
                font-weight: bolder;
             }
+         .Bv2{
+            color: black;
+            
+         }
+         .Bv2 button{
+            border: 1px solid black;
+               background: transparent;
+               border-radius: 30px;
+               color: black;
+               font-weight: bolder;
+         }
          .heros{
             background-color: black;
             height: 690px;
@@ -530,7 +541,7 @@
             font-size: 1.3rem;
          }
          /* this causes all product to align right */
-         #productslides1, #productslides2{
+         #productslides1, #productslides2, #productslides3{
           background-color:white;
           display: flex;      
          }
@@ -557,7 +568,7 @@
             box-shadow: gray 0 0 5px; 
             height: 300px;
             width: 200px;
-         }   
+         } 
          .productslider .brandlabel{
             color:  gray;
             font-size: smaller;
@@ -624,7 +635,16 @@ main{
 .firstmain{
    margin-top: 50px;
 }
-       
+.sbb2{
+
+background-color: red;
+display: inline;
+}
+.sbb3{
+margin-left: 125px;
+background-color: red;
+display: inline;
+}
 /* Collections, Workouts, Caategories img */
          .collections, .workouts, .categories {
             display: flex; 
@@ -646,7 +666,7 @@ main{
          .winter{background-image: url("Images/winter\ shorts.PNG");}
          .spring{background-image: url("Images/Hoodie\ 2.png");}
          .summer{background-image: url("Images/spring\ leggings.jpg");}
-         .fall{background-image: url("Images/sports\ bra.png");}
+         .fall{background-image: url("Images/stewsb.jpeg");}
          .men{background-image: url("Images/Bag.jpeg");}
          .women{background-image: url("Images/Cap.jpeg");}
          .accessories{background-image: url("Images/Belt.jpeg");}
@@ -684,7 +704,7 @@ main{
     .mpic1{background-image: url(Images/winter\ shorts.PNG);}
     .mpic2{background-image: url(Images/Hoodie\ 2.png);}
     .mpic3{background-image: url(Images/spring\ leggings.jpg);}
-    .mpic4{background-image: url(Images/sports\ bra.png);}
+    .mpic4{background-image: url(Images/stewsb.jpeg);}
     .mpic5{background-image: url(Images/Bag.jpeg);}
     .mpic6{background-image: url(Images/Cap.jpeg);}
     .mpic7{background-image: url(Images/Belt.jpeg);}
@@ -890,7 +910,7 @@ main{
                margin: 15px;}
      .img-descriptions, .img-link,.descriptions
          { font-size: small;}
-         #productslides1, #productslides2{
+         #productslides1, #productslides2, #productslides3{
             overflow-x: auto;
             scrollbar-width: none;
          }
