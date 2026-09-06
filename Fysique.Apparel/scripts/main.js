@@ -132,3 +132,30 @@ fetch("shipment.json")
     element.textContent = currentYear;
   });
 });
+
+//brand rep panel add a div with corresponding offscreen# and class
+
+ $(document).ready(function(){
+    var repPanel;
+     $('#productslides3 .Hbuttons button').on('click', function(){
+//         //figure out which panel to show
+         repPanel = $(this).attr('rel');
+                $('#'+repPanel).css({
+                    'transform': 'translateY(0)',
+                    'box-shadow': 'black 0 0 1000px'
+                });
+         //Freeze body behind the panel and allow the scroll only in the panel
+         $('body').addClass('no-scroll');
+     });
+        //on the click of the x button the rep panel slides down
+     $('.exit').on('click', function(){
+                $('#'+repPanel).css({
+                'transform': 'translateY(100%)',
+                'box-shadow': 'none' 
+                });
+         // Unfreeze the background body so you can scroll again
+         $('body').removeClass('no-scroll');
+     });
+ });
+
+  
